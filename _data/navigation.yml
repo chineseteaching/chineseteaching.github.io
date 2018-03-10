@@ -2,7 +2,7 @@
 main:
   - title: "Call for Papers"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    url: /pages/callforpaper.html
+    url: /pages/callforpapers/
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

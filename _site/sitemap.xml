@@ -24,6 +24,9 @@
 <loc>http://localhost:4000/pages/callforpaper/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/callforpapers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
