@@ -15,7 +15,7 @@ title_separator          : "-"
 name                     : #"Cindy"
 description              : "Join us at University of California Santa Barbara for teaching and researching in the area of Chinese language"
 url                      : "https://chineseteaching.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/_site"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser                   : "/assets/images/Kitten.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
