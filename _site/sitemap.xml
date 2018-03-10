@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/edge%20case/edge-case-nested-and-mixed-lists/</loc>
+<lastmod>2009-05-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/edge%20case/edge-case-many-tags/</loc>
+<lastmod>2009-06-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/aciform/antiquarianism/arrangement/asmodeus/broder/buying/championship/chastening/disinclination/disinfection/dispatch/echappee/enphagy/edge-case-many-categories/</loc>
+<lastmod>2009-07-02T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/edge%20case/edge-case-no-body-content/</loc>
+<lastmod>2009-08-06T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/welcome-to-jekyll/</loc>
+<lastmod>2015-02-10T07:14:54-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pages/callforpaper/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/</loc>
+</url>
+</urlset>
