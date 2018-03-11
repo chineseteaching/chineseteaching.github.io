@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : #"Cindy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/images/ucsb.png"
   bio              : #"I am an amazing person."
   location         : #"Somewhere"
   email            :
@@ -172,11 +172,11 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..4
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
