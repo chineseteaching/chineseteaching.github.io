@@ -1,8 +1,26 @@
 # main links
 main:
-  - title: "Call for Papers"
+#  - title: "Call for Papers"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    url: /pages/callforpapers/
+#    url: /pages/callforpapers/
+  - title: "Programs 会议议程"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /pages/program/
+  - title: "Keynote Speeches 专题演讲"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: "https://chineseteaching.github.io/assets/docs/Keynote_Speakers_1.pdf"
+  - title: "Registration 注册"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /pages/registration/
+  - title: "Lodging 住宿"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /pages/lodging/
+  - title: "Transportation 交通"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /pages/transportation/
+  - title: "Contact 联络我们"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /pages/contact/
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

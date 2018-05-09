@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 #title                    : "<i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>"
-title                    : "ICCLTR Home"
+title                    : "ICCLTR Home 主页"
 title_separator          : "-2018"
 name                     : #"Cindy"
 description              : "2018 International Chinese Language Teaching and Reasearch Conference"
