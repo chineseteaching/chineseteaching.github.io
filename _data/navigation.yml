@@ -6,7 +6,7 @@ main:
     url: "/assets/docs/Keynote_Speakers_1.pdf"
   - title: "Registration<br/>注册"
     url: /pages/registration/
-  - title: "Lodging<br/>住宿"
+  - title: "Hotel<br/>住宿"
     url: /assets/docs/lodging.pdf
   - title: "Transportation<br/>交通"
     url: /assets/docs/transport.pdf
