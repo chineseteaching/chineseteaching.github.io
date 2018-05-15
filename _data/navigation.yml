@@ -3,12 +3,12 @@ main:
   - title: "Programs<br/>会议议程"
     url: /pages/program/
   - title: "Keynote Speeches<br/>专题演讲"
-    url: "https://chineseteaching.github.io/assets/docs/Keynote_Speakers_1.pdf"
+    url: "/assets/docs/Keynote_Speakers_1.pdf"
   - title: "Registration<br/>注册"
     url: /pages/registration/
   - title: "Lodging<br/>住宿"
     url: /assets/docs/lodging.pdf
   - title: "Transportation<br/>交通"
-    url: /pages/transportation/
+    url: /assets/docs/transport.pdf
   - title: "Contact<br/>联络我们"
     url: /pages/contact/
