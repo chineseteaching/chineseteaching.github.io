@@ -2,13 +2,13 @@
 main:
   - title: "Programs<br/>会议议程"
     url: /pages/program/
-  - title: "Keynote Speeches 专题演讲"
+  - title: "Keynote Speeches<br/>专题演讲"
     url: "https://chineseteaching.github.io/assets/docs/Keynote_Speakers_1.pdf"
-  - title: "Registration 注册"
+  - title: "Registration<br/>注册"
     url: /pages/registration/
-  - title: "Lodging 住宿"
+  - title: "Lodging<br/>住宿"
     url: /pages/lodging/
-  - title: "Transportation 交通"
+  - title: "Transportation<br/>交通"
     url: /pages/transportation/
-  - title: "Contact 联络我们"
+  - title: "Contact<br/>联络我们"
     url: /pages/contact/
