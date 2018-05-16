@@ -10,7 +10,7 @@ header:
  image: /assets/images/gate.jpg
  #overlay_filter: rgba(0, 0, 255, 0.1)
 
-toc: true
+toc: false
 toc_label: "Table of Contents"
 toc_icon: "cogs"
 
