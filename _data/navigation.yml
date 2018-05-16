@@ -9,6 +9,6 @@ main:
   - title: "Hotel<br/>住宿"
     url: /assets/docs/lodging.pdf
   - title: "Transportation<br/>交通"
-    url: /assets/docs/transport.pdf
+    url: /pages/registration/
   - title: "Contact<br/>联络我们"
     url: /pages/contact/
