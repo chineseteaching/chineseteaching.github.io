@@ -15,6 +15,6 @@ toc_label: "Table of Contents"
 toc_icon: "cogs"
 
 ---
-<a href="/assets/docs/registration-form.dic">Registration form</a>
+<a href="/assets/docs/registration-form.doc">Registration form</a>
 
-<a href="/assets/docs/exhibition-form.dic">Exhibition form</a>
+<a href="/assets/docs/exhibition-form.doc">Exhibition form</a>
