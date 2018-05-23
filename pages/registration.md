@@ -15,6 +15,7 @@ toc_label: "Table of Contents"
 toc_icon: "cogs"
 
 ---
-<a href="/assets/docs/registration-form.docx">Registration form</a>
 
-<a href="/assets/docs/exhibition-form.docx">Exhibition form</a>
+<a href="/assets/docs/registration-form.docx">Click here to download the registration form</a>
+
+If you would like to exhibit your books or other Chinese language learning products, the rate is USD $450. <a href="/assets/docs/exhibition-form.docx">Click here to download the exhibition form</a>
