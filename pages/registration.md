@@ -16,5 +16,5 @@ toc_icon: "cogs"
 
 ---
 <a href="/assets/docs/registration-form.dic">Registration form</a>
-<br><br>
+
 <a href="/assets/docs/exhibition-form.dic">Exhibition form</a>
