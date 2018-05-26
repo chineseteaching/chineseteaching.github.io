@@ -15,6 +15,6 @@ toc_label: "Table of Contents"
 toc_icon: "cogs"
 
 ---
-Email: <a href="mailto:ICCUSB18@gmail.com">ICCUSB18@gmail.com</a>
+Email: <a href="mailto:ICCUCSB18@gmail.com">ICCUCSB18@gmail.com</a>
 
 Phone: (+1) 805 893 4954 (Confucius Institute Office, UCSB)
