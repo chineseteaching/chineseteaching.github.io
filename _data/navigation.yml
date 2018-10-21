@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Programs<br/>会议议程"
-    url: /pages/program/
+    url: "/assets/docs/2018 ICCLTR Program web.docx"
   - title: "Keynote Speeches<br/>专题演讲"
     url: "/assets/docs/Keynote_Speakers_1.pdf"
   - title: "Registration<br/>注册"
